@@ -23,8 +23,8 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YoSoySergio&show_icons=true&theme=vue-dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoSoySergio&layout=compact&theme=vue-dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YoSoySergio&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YoSoySergio&theme=vue-dark&hide_border=true" />
 </p>
 
 ---
