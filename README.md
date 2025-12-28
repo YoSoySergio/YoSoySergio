@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6B9F36&width=435&lines=Fullstack+Web+Developer;Vue+Enthusiast;Open+Source+Explorer" alt="Typing SVG" /></a>
 
-🇲🇩 Based in Moldova
+☕ Fueled by coffee in Moldova 🇲🇩
 
 ---
 
