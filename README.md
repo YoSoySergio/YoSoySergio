@@ -1,6 +1,6 @@
 # Hey, I'm Sergiu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6B9F36&width=435&lines=Fullstack+Web+Developer;Vue+Enthusiast;Open+Source+Explorer" alt="Typing SVG" /></a>
+Fullstack Web Developer • Vue Enthusiast • Open Source Explorer
 
 ☕ Fueled by coffee in Moldova 🇲🇩
 
