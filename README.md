@@ -1,12 +1,8 @@
-# Hey, I'm Sergiu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-
-Fullstack Web Developer • Vue Enthusiast • Open Source Explorer
+# Hey, I'm Sergiu 👋
 
 ☕ Fueled by coffee in Moldova 🇲🇩
 
----
-
-## 🛠 Tech Stack
+### Tech Stack
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
@@ -18,8 +14,6 @@ Fullstack Web Developer • Vue Enthusiast • Open Source Explorer
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
-
-## 🤝 Connect
+### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergiu-ravliuc-a18bb0130/)
